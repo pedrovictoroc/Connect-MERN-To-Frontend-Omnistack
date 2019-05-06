@@ -1,3 +1,10 @@
+Usando:
+  axios: Coneção do front-end com a API
+  react-dropzone: Inclusão de imagens por arraste
+  react-icons: estilização de icone
+  socket.io-client: sincronização de mais de uma plataforma para atualização de files
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
